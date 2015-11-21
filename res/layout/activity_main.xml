@@ -15,7 +15,8 @@
         android:id="@+id/info"
 		android:layout_below="@+id/check"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:scrollbars = "vertical">
 	</TextView>
 
 </RelativeLayout>
